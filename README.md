@@ -45,14 +45,13 @@ This project demonstrates hands-on experience building and analyzing a cloud-bas
 - Observed request timeouts and absence of ICMP replies in Wireshark
 
 ![Ping Timeout](images/timeout.png)
-![No ICMP Response](images/Ping.png)
 
 ---
 
 ### 5. Connectivity Restoration
 - Re-enabled ICMP traffic in NSG
 - Verified restored communication through successful ping responses and packet visibility
-
+![ICMP Response](images/Ping.png)
 ---
 
 ### 6. SSH Traffic Analysis (Secure Communication)
