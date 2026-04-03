@@ -59,7 +59,7 @@ This project demonstrates hands-on experience building and analyzing a cloud-bas
 - Applied SSH filter in Wireshark
 - Established SSH connection from Windows VM to Ubuntu VM via PowerShell
 - Executed commands and analyzed encrypted SSH traffic in real time
-
+![PowerShell Commands](images/command.png)
 ![SSH Traffic](images/SSH.png)
 
 ---
